@@ -7,6 +7,7 @@ public class Ex20 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //		1~100 숫자 맞추는 게임
+//		게임 재시작 구현 실패
 		
 		int num, answer;
 		String str;
